@@ -1,1 +1,3 @@
 Ceci explique le concept du projet
+
+Le projet consiste à créer un repository GIT
